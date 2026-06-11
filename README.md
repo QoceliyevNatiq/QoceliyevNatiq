@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" alt="Coding animation" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,45:111827,100:0f172a&text=Java%20Developer&fontColor=38bdf8&fontSize=48&fontAlignY=45&desc=Backend%20Learner%20%7C%20Algorithmic%20Problem%20Solver&descColor=e5e7eb&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Dark animated header" />
 
 <br />
 <br />
