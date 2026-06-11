@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="430" alt="Night coding animation" />
+<img src="./assets/kali-dark-loop.gif" width="860" alt="Kali inspired dark animation" />
 
 <br />
 <br />
