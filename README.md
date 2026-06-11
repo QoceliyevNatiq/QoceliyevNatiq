@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0:111827,100:020617&text=Hi,%20I'm%20Natiq&fontColor=f8fafc&fontSize=46&desc=Java%20Developer%20%7C%20BEU%20Student&descColor=38bdf8&descSize=18&animation=fadeIn" width="100%" alt="Clean dark profile header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=020617&text=Qoceliyev%20Natiq&fontColor=22c55e&fontSize=44&desc=Java%20Developer%20%7C%20Backend%20Learner&descColor=94a3b8&descSize=18&animation=twinkling" width="100%" alt="Terminal style profile header" />
 
 <br />
 <br />
