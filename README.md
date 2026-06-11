@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/kali-dragon-cropped.gif" width="520" alt="Kali dragon animation" />
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="430" alt="Night coding animation" />
 
 <br />
 <br />
