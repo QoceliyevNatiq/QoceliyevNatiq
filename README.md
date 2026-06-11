@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/kali-dragon-white.gif" width="520" alt="White Kali dragon animation" />
+<img src="./assets/kali-dragon-cropped.gif" width="520" alt="Kali dragon animation" />
 
 <br />
 <br />
