@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/kali-dark-loop.gif" width="860" alt="Kali inspired dark animation" />
+<img src="./assets/kali-dragon-neon.svg" width="860" alt="Kali dragon neon animation" />
 
 <br />
 <br />
