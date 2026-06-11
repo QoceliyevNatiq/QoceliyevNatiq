@@ -6,7 +6,6 @@
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natiq-qo%C3%A7%C9%99liyev-802a68331/)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QoceliyevNatiq)
 
 <h1>Hi, I'm Qoceliyev Natiq</h1>
 
@@ -28,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,html,css,git,github,vscode&theme=dark" alt="Languages and tools" />
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,git,github,idea&theme=dark" alt="Languages and tools" />
 
 </div>
 
