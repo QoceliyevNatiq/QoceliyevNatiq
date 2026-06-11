@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=020617&text=Qoceliyev%20Natiq&fontColor=22c55e&fontSize=44&desc=Java%20Developer%20%7C%20Backend%20Learner&descColor=94a3b8&descSize=18&animation=twinkling" width="100%" alt="Terminal style profile header" />
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="430" alt="Night coding animation" />
 
 <br />
 <br />
